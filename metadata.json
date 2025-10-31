@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Video Editor",
+  "description": "An AI-powered video editor that generates YouTube-style videos and shorts from text prompts. Users can select from various popular styles or define their own, and optionally provide a starting image to guide the creation process.",
+  "requestFramePermissions": []
+}
